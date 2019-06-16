@@ -1,0 +1,13 @@
+// THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF
+// ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+// THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+// PARTICULAR PURPOSE.
+//
+
+FlyImage Image "fly.png"
+BackgroundImage1 Image "background.jpg"
+BackgroundImage2 Image "background2.jpg"
+BackgroundImage3 Image "background3.png"
+BugMask Image "bugmask.png"
+RainbowImage Image "rainbow.jpg"
+EffectImage Image "effect.png"

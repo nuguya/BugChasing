@@ -1,0 +1,58 @@
+﻿  FSMbug.cpp
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\fsmbug.cpp(171): warning C4100: 'timeDelta': 참조되지 않은 정식 매개 변수입니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\fsmbug.cpp(174): warning C4100: 'timeDelta': 참조되지 않은 정식 매개 변수입니다.
+  DemoApp.cpp
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(99): warning C4100: 'TimerOrWaitFired': 참조되지 않은 정식 매개 변수입니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(99): warning C4100: 'lpParam': 참조되지 않은 정식 매개 변수입니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(110): warning C4100: 'TimerOrWaitFired': 참조되지 않은 정식 매개 변수입니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(110): warning C4100: 'lpParam': 참조되지 않은 정식 매개 변수입니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(116): warning C4100: 'TimerOrWaitFired': 참조되지 않은 정식 매개 변수입니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(126): warning C4100: 'TimerOrWaitFired': 참조되지 않은 정식 매개 변수입니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(145): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(392): warning C4456: 'pSink' 선언은 이전 로컬 선언을 숨깁니다.
+  c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(280): note: 'pSink' 선언을 참조하십시오.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(426): warning C4456: 'pSink' 선언은 이전 로컬 선언을 숨깁니다.
+  c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(280): note: 'pSink' 선언을 참조하십시오.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(515): warning C4456: 'pSink' 선언은 이전 로컬 선언을 숨깁니다.
+  c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(280): note: 'pSink' 선언을 참조하십시오.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(654): warning C4459: 'timeDelta' 선언은 전역 선언을 숨깁니다.
+  c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(33): note: 'timeDelta' 선언을 참조하십시오.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(787): warning C4305: '+=': 'double'에서 'FLOAT'(으)로 잘립니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(785): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(809): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(871): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(875): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(829): warning C4101: 't2' :참조되지 않은 지역 변수입니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(829): warning C4101: 't1' :참조되지 않은 지역 변수입니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(1008): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(1082): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(1085): warning C4552: '%': 의미 없는 연산자입니다. 파생 작업이 있는 연산자여야 합니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(994): warning C4101: 'mmi' :참조되지 않은 지역 변수입니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(1350): warning C4459: 'pwfx' 선언은 전역 선언을 숨깁니다.
+  c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(65): note: 'pwfx' 선언을 참조하십시오.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(1369): warning C4459: 'pSourceVoice' 선언은 전역 선언을 숨깁니다.
+  c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(67): note: 'pSourceVoice' 선언을 참조하십시오.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(1405): warning C4459: 'pwfx' 선언은 전역 선언을 숨깁니다.
+  c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(65): note: 'pwfx' 선언을 참조하십시오.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(1424): warning C4459: 'pSourceVoice' 선언은 전역 선언을 숨깁니다.
+  c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(67): note: 'pSourceVoice' 선언을 참조하십시오.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(1462): warning C4459: 'pwfx' 선언은 전역 선언을 숨깁니다.
+  c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(65): note: 'pwfx' 선언을 참조하십시오.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(1481): warning C4459: 'pSourceVoice' 선언은 전역 선언을 숨깁니다.
+  c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(67): note: 'pSourceVoice' 선언을 참조하십시오.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(1517): warning C4459: 'pwfx' 선언은 전역 선언을 숨깁니다.
+  c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(65): note: 'pwfx' 선언을 참조하십시오.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(1536): warning C4459: 'pSourceVoice' 선언은 전역 선언을 숨깁니다.
+  c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(67): note: 'pSourceVoice' 선언을 참조하십시오.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(1572): warning C4459: 'pwfx' 선언은 전역 선언을 숨깁니다.
+  c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(65): note: 'pwfx' 선언을 참조하십시오.
+  FiniteStateMachine.cpp
+  SDKwavefile.cpp
+  _physics.cpp
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\_physics.cpp(3): warning C4100: 't': 참조되지 않은 정식 매개 변수입니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\_physics.cpp(3): warning C4100: 'state': 참조되지 않은 정식 매개 변수입니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\_physics.cpp(6): warning C4189: 'b': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+  코드를 생성하고 있습니다...
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(956): warning C4700: 초기화되지 않은 'hr' 지역 변수를 사용했습니다.
+c:\users\emsud\desktop\수업\게임프로그래밍\벌레잡기\demoapp.cpp(1084): warning C4706: 조건식 내에 할당이 있습니다.
+  DemoApp.vcxproj -> C:\Users\emsud\Desktop\수업\게임프로그래밍\벌레잡기\Debug\DemoApp.exe
